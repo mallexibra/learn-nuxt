@@ -1,0 +1,9 @@
+body {
+  background-color: brown !important;
+}
+
+.kotak {
+  width: 90px;
+  height: 90px;
+  background-color: aqua;
+}
